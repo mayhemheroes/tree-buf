@@ -1,0 +1,5 @@
+project: tree-buf
+target: decode
+cmds:
+    - cmd: /decode
+
