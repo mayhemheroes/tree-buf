@@ -1,0 +1,5 @@
+project: tree-buf
+target: encode
+cmds:
+    - cmd: /encode
+
